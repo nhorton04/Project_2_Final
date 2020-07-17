@@ -9,9 +9,8 @@ import functions
 import random
 import numpy as np
 
-import movies_2020
-import criticism
-import alt_crit
+import movie_data_2020
+import criticscraper
 
 from urllib.parse import urljoin
 from selenium import webdriver
